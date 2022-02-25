@@ -582,7 +582,7 @@
     "jobs" : 20,
     "machines" : 20,
     "optimum" : 884,
-    "path" : "yn/yn1.txt"
+    "path" : "yn/yn01.txt"
   },
   {
     "name" : "yn2",
@@ -593,7 +593,7 @@
       "upper" : 904,
       "lower" : 870
     },
-    "path" : "yn/yn2.txt"
+    "path" : "yn/yn02.txt"
   },
   {
     "name" : "yn3",
@@ -604,7 +604,7 @@
       "upper" : 892,
       "lower" : 859
     },
-    "path" : "yn/yn3.txt"
+    "path" : "yn/yn03.txt"
   },
   {
     "name" : "yn4",
@@ -615,7 +615,7 @@
       "upper" : 968,
       "lower" : 929
     },
-    "path" : "yn/yn4.txt"
+    "path" : "yn/yn04.txt"
   },
   {
     "name" : "ta01",
