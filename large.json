@@ -1,0 +1,1230 @@
+[
+  {
+    "name" : "ko01",
+    "jobs" : 2162,
+    "machines" : 100,
+    "optimum" : 600000,
+    "path" : "ko/ko01.txt",
+    "origin" : "short-js-600000-100-10000-1"
+  },
+  {
+    "name" : "ko02",
+    "jobs" : 2192,
+    "machines" : 100,
+    "optimum" : 600000,
+    "path" : "ko/ko02.txt",
+    "origin" : "short-js-600000-100-10000-2"
+  },
+  {
+    "name" : "ko03",
+    "jobs" : 2169,
+    "machines" : 100,
+    "optimum" : 600000,
+    "path" : "ko/ko03.txt",
+    "origin" : "short-js-600000-100-10000-3"
+  },
+  {
+    "name" : "ko04",
+    "jobs" : 20685,
+    "machines" : 100,
+    "optimum" : 600000,
+    "path" : "ko/ko04.txt",
+    "origin" : "short-js-600000-100-100000-1"
+  },
+  {
+    "name" : "ko05",
+    "jobs" : 20870,
+    "machines" : 100,
+    "optimum" : 600000,
+    "path" : "ko/ko05.txt",
+    "origin" : "short-js-600000-100-100000-2"
+  },
+  {
+    "name" : "ko06",
+    "jobs" : 20767,
+    "machines" : 100,
+    "optimum" : 600000,
+    "path" : "ko/ko06.txt",
+    "origin" : "short-js-600000-100-100000-3"
+  },
+  {
+    "name" : "ko07",
+    "jobs" : 2882,
+    "machines" : 1000,
+    "optimum" : 600000,
+    "path" : "ko/ko07.txt",
+    "origin" : "short-js-600000-1000-10000-1"
+  },
+  {
+    "name" : "ko08",
+    "jobs" : 2863,
+    "machines" : 1000,
+    "optimum" : 600000,
+    "path" : "ko/ko08.txt",
+    "origin" : "short-js-600000-1000-10000-2"
+  },
+  {
+    "name" : "ko09",
+    "jobs" : 2897,
+    "machines" : 1000,
+    "optimum" : 600000,
+    "path" : "ko/ko09.txt",
+    "origin" : "short-js-600000-1000-10000-3"
+  },
+  {
+    "name" : "ko10",
+    "jobs" : 21280,
+    "machines" : 1000,
+    "optimum" : 600000,
+    "path" : "ko/ko10.txt",
+    "origin" : "short-js-600000-1000-100000-1"
+  },
+  {
+    "name" : "ko11",
+    "jobs" : 21349,
+    "machines" : 1000,
+    "optimum" : 600000,
+    "path" : "ko/ko11.txt",
+    "origin" : "short-js-600000-1000-100000-2"
+  },
+  {
+    "name" : "ko12",
+    "jobs" : 21338,
+    "machines" : 1000,
+    "optimum" : 600000,
+    "path" : "ko/ko12.txt",
+    "origin" : "short-js-600000-1000-100000-3"
+  },
+  {
+    "name" : "ko13",
+    "jobs" : 103,
+    "machines" : 100,
+    "optimum" : 600000,
+    "path" : "ko/ko13.txt",
+    "origin" : "long-js-600000-100-10000-1"
+  },
+  {
+    "name" : "ko14",
+    "jobs" : 103,
+    "machines" : 100,
+    "optimum" : 600000,
+    "path" : "ko/ko14.txt",
+    "origin" : "long-js-600000-100-10000-2"
+  },
+  {
+    "name" : "ko15",
+    "jobs" : 103,
+    "machines" : 100,
+    "optimum" : 600000,
+    "path" : "ko/ko15.txt",
+    "origin" : "long-js-600000-100-10000-3"
+  },
+  {
+    "name" : "ko16",
+    "jobs" : 109,
+    "machines" : 100,
+    "optimum" : 600000,
+    "path" : "ko/ko16.txt",
+    "origin" : "long-js-600000-100-100000-1"
+  },
+  {
+    "name" : "ko17",
+    "jobs" : 114,
+    "machines" : 100,
+    "optimum" : 600000,
+    "path" : "ko/ko17.txt",
+    "origin" : "long-js-600000-100-100000-2"
+  },
+  {
+    "name" : "ko18",
+    "jobs" : 109,
+    "machines" : 100,
+    "optimum" : 600000,
+    "path" : "ko/ko18.txt",
+    "origin" : "long-js-600000-100-100000-3"
+  },
+  {
+    "name" : "ko19",
+    "jobs" : 1002,
+    "machines" : 1000,
+    "optimum" : 600000,
+    "path" : "ko/ko19.txt",
+    "origin" : "long-js-600000-1000-10000-1"
+  },
+  {
+    "name" : "ko20",
+    "jobs" : 1002,
+    "machines" : 1000,
+    "optimum" : 600000,
+    "path" : "ko/ko20.txt",
+    "origin" : "long-js-600000-1000-10000-2"
+  },
+  {
+    "name" : "ko21",
+    "jobs" : 1002,
+    "machines" : 1000,
+    "optimum" : 600000,
+    "path" : "ko/ko21.txt",
+    "origin" : "long-js-600000-1000-10000-3"
+  },
+  {
+    "name" : "ko22",
+    "jobs" : 1002,
+    "machines" : 1000,
+    "optimum" : 600000,
+    "path" : "ko/ko22.txt",
+    "origin" : "long-js-600000-1000-100000-1"
+  },
+  {
+    "name" : "ko23",
+    "jobs" : 1002,
+    "machines" : 1000,
+    "optimum" : 600000,
+    "path" : "ko/ko23.txt",
+    "origin" : "long-js-600000-1000-100000-2"
+  },
+  {
+    "name" : "ko24",
+    "jobs" : 1003,
+    "machines" : 1000,
+    "optimum" : 600000,
+    "path" : "ko/ko24.txt",
+    "origin" : "long-js-600000-1000-100000-3"
+  },
+  {
+    "name" : "lta01",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 11006,
+      "lower" : 6810
+    },
+    "path" : "lta/lta01.txt",
+    "origin" : "tai_j10_m10_1"
+  },
+  {
+    "name" : "lta02",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 10484,
+      "lower" : 5903
+    },
+    "path" : "lta/lta02.txt",
+    "origin" : "tai_j10_m10_2"
+  },
+  {
+    "name" : "lta03",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 11043,
+      "lower" : 6669
+    },
+    "path" : "lta/lta03.txt",
+    "origin" : "tai_j10_m10_3"
+  },
+  {
+    "name" : "lta04",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 10876,
+      "lower" : 7339
+    },
+    "path" : "lta/lta04.txt",
+    "origin" : "tai_j10_m10_4"
+  },
+  {
+    "name" : "lta05",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 10450,
+      "lower" : 6517
+    },
+    "path" : "lta/lta05.txt",
+    "origin" : "tai_j10_m10_5"
+  },
+  {
+    "name" : "lta06",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 10403,
+      "lower" : 7509
+    },
+    "path" : "lta/lta06.txt",
+    "origin" : "tai_j10_m10_6"
+  },
+  {
+    "name" : "lta07",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 10699,
+      "lower" : 6282
+    },
+    "path" : "lta/lta07.txt",
+    "origin" : "tai_j10_m10_7"
+  },
+  {
+    "name" : "lta08",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 10111,
+      "lower" : 6557
+    },
+    "path" : "lta/lta08.txt",
+    "origin" : "tai_j10_m10_8"
+  },
+  {
+    "name" : "lta09",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 11185,
+      "lower" : 6752
+    },
+    "path" : "lta/lta09.txt",
+    "origin" : "tai_j10_m10_9"
+  },
+  {
+    "name" : "lta10",
+    "jobs" : 10,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 11783,
+      "lower" : 7119
+    },
+    "path" : "lta/lta10.txt",
+    "origin" : "tai_j10_m10_10"
+  },
+  {
+    "name" : "lta11",
+    "jobs" : 10,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 62698,
+      "lower" : 56347
+    },
+    "path" : "lta/lta11.txt",
+    "origin" : "tai_j10_m100_1"
+  },
+  {
+    "name" : "lta12",
+    "jobs" : 10,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 59275,
+      "lower" : 51520
+    },
+    "path" : "lta/lta12.txt",
+    "origin" : "tai_j10_m100_2"
+  },
+  {
+    "name" : "lta13",
+    "jobs" : 10,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 60910,
+      "lower" : 56412
+    },
+    "path" : "lta/lta13.txt",
+    "origin" : "tai_j10_m100_3"
+  },
+  {
+    "name" : "lta14",
+    "jobs" : 10,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 62819,
+      "lower" : 54288
+    },
+    "path" : "lta/lta14.txt",
+    "origin" : "tai_j10_m100_4"
+  },
+  {
+    "name" : "lta15",
+    "jobs" : 10,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 63767,
+      "lower" : 54501
+    },
+    "path" : "lta/lta15.txt",
+    "origin" : "tai_j10_m100_5"
+  },
+  {
+    "name" : "lta16",
+    "jobs" : 10,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 61267,
+      "lower" : 53665
+    },
+    "path" : "lta/lta16.txt",
+    "origin" : "tai_j10_m100_6"
+  },
+  {
+    "name" : "lta17",
+    "jobs" : 10,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 61077,
+      "lower" : 55456
+    },
+    "path" : "lta/lta17.txt",
+    "origin" : "tai_j10_m100_7"
+  },
+  {
+    "name" : "lta18",
+    "jobs" : 10,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 66391,
+      "lower" : 56466
+    },
+    "path" : "lta/lta18.txt",
+    "origin" : "tai_j10_m100_8"
+  },
+  {
+    "name" : "lta19",
+    "jobs" : 10,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 63966,
+      "lower" : 54729
+    },
+    "path" : "lta/lta19.txt",
+    "origin" : "tai_j10_m100_9"
+  },
+  {
+    "name" : "lta20",
+    "jobs" : 10,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 62377,
+      "lower" : 56661
+    },
+    "path" : "lta/lta20.txt",
+    "origin" : "tai_j10_m100_10"
+  },
+  {
+    "name" : "lta21",
+    "jobs" : 10,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 539270,
+      "lower" : 515370
+    },
+    "path" : "lta/lta21.txt",
+    "origin" : "tai_j10_m1000_1"
+  },
+  {
+    "name" : "lta22",
+    "jobs" : 10,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 538935,
+      "lower" : 513525
+    },
+    "path" : "lta/lta22.txt",
+    "origin" : "tai_j10_m1000_2"
+  },
+  {
+    "name" : "lta23",
+    "jobs" : 10,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 537974,
+      "lower" : 507968
+    },
+    "path" : "lta/lta23.txt",
+    "origin" : "tai_j10_m1000_3"
+  },
+  {
+    "name" : "lta24",
+    "jobs" : 10,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 542382,
+      "lower" : 513814
+    },
+    "path" : "lta/lta24.txt",
+    "origin" : "tai_j10_m1000_4"
+  },
+  {
+    "name" : "lta25",
+    "jobs" : 10,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 543631,
+      "lower" : 517020
+    },
+    "path" : "lta/lta25.txt",
+    "origin" : "tai_j10_m1000_5"
+  },
+  {
+    "name" : "lta26",
+    "jobs" : 10,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 545495,
+      "lower" : 517426
+    },
+    "path" : "lta/lta26.txt",
+    "origin" : "tai_j10_m1000_6"
+  },
+  {
+    "name" : "lta27",
+    "jobs" : 10,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 542231,
+      "lower" : 514921
+    },
+    "path" : "lta/lta27.txt",
+    "origin" : "tai_j10_m1000_7"
+  },
+  {
+    "name" : "lta28",
+    "jobs" : 10,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 543934,
+      "lower" : 522277
+    },
+    "path" : "lta/lta28.txt",
+    "origin" : "tai_j10_m1000_8"
+  },
+  {
+    "name" : "lta29",
+    "jobs" : 10,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 549647,
+      "lower" : 510455
+    },
+    "path" : "lta/lta29.txt",
+    "origin" : "tai_j10_m1000_9"
+  },
+  {
+    "name" : "lta30",
+    "jobs" : 10,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 530700,
+      "lower" : 509855
+    },
+    "path" : "lta/lta30.txt",
+    "origin" : "tai_j10_m1000_10"
+  },
+  {
+    "name" : "lta31",
+    "jobs" : 100,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 58728,
+      "lower" : 54951
+    },
+    "path" : "lta/lta31.txt",
+    "origin" : "tai_j100_m10_1"
+  },
+  {
+    "name" : "lta32",
+    "jobs" : 100,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 57390,
+      "lower" : 57160
+    },
+    "path" : "lta/lta32.txt",
+    "origin" : "tai_j100_m10_2"
+  },
+  {
+    "name" : "lta33",
+    "jobs" : 100,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 57595,
+      "lower" : 54166
+    },
+    "path" : "lta/lta33.txt",
+    "origin" : "tai_j100_m10_3"
+  },
+  {
+    "name" : "lta34",
+    "jobs" : 100,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 58563,
+      "lower" : 54371
+    },
+    "path" : "lta/lta34.txt",
+    "origin" : "tai_j100_m10_4"
+  },
+  {
+    "name" : "lta35",
+    "jobs" : 100,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 60039,
+      "lower" : 56142
+    },
+    "path" : "lta/lta35.txt",
+    "origin" : "tai_j100_m10_5"
+  },
+  {
+    "name" : "lta36",
+    "jobs" : 100,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 58085,
+      "lower" : 52447
+    },
+    "path" : "lta/lta36.txt",
+    "origin" : "tai_j100_m10_6"
+  },
+  {
+    "name" : "lta37",
+    "jobs" : 100,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 55882,
+      "lower" : 54051
+    },
+    "path" : "lta/lta37.txt",
+    "origin" : "tai_j100_m10_7"
+  },
+  {
+    "name" : "lta38",
+    "jobs" : 100,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 65088,
+      "lower" : 55624
+    },
+    "path" : "lta/lta38.txt",
+    "origin" : "tai_j100_m10_8"
+  },
+  {
+    "name" : "lta39",
+    "jobs" : 100,
+    "machines" : 10,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 58283,
+      "lower" : 54210
+    },
+    "path" : "lta/lta39.txt",
+    "origin" : "tai_j100_m10_9"
+  },
+  {
+    "name" : "lta40",
+    "jobs" : 100,
+    "machines" : 10,
+    "optimum" : 55464,
+    "path" : "lta/lta40.txt",
+    "origin" : "tai_j100_m10_10"
+  },
+  {
+    "name" : "lta41",
+    "jobs" : 100,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 123105,
+      "lower" : 59162
+    },
+    "path" : "lta/lta41.txt",
+    "origin" : "tai_j100_m100_1"
+  },
+  {
+    "name" : "lta42",
+    "jobs" : 100,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 124242,
+      "lower" : 57126
+    },
+    "path" : "lta/lta42.txt",
+    "origin" : "tai_j100_m100_2"
+  },
+  {
+    "name" : "lta43",
+    "jobs" : 100,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 125115,
+      "lower" : 57806
+    },
+    "path" : "lta/lta43.txt",
+    "origin" : "tai_j100_m100_3"
+  },
+  {
+    "name" : "lta44",
+    "jobs" : 100,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 128252,
+      "lower" : 59359
+    },
+    "path" : "lta/lta44.txt",
+    "origin" : "tai_j100_m100_4"
+  },
+  {
+    "name" : "lta45",
+    "jobs" : 100,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 125341,
+      "lower" : 56381
+    },
+    "path" : "lta/lta45.txt",
+    "origin" : "tai_j100_m100_5"
+  },
+  {
+    "name" : "lta46",
+    "jobs" : 100,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 130944,
+      "lower" : 56191
+    },
+    "path" : "lta/lta46.txt",
+    "origin" : "tai_j100_m100_6"
+  },
+  {
+    "name" : "lta47",
+    "jobs" : 100,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 126537,
+      "lower" : 57317
+    },
+    "path" : "lta/lta47.txt",
+    "origin" : "tai_j100_m100_7"
+  },
+  {
+    "name" : "lta48",
+    "jobs" : 100,
+    "machines" : 100,
+    "bounds" : {
+      "upper" : 124731,
+      "lower" : 58951
+    },
+    "optimum" : null,
+    "path" : "lta/lta48.txt",
+    "origin" : "tai_j100_m100_8"
+  },
+  {
+    "name" : "lta49",
+    "jobs" : 100,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 129283,
+      "lower" : 58494
+    },
+    "path" : "lta/lta49.txt",
+    "origin" : "tai_j100_m100_9"
+  },
+  {
+    "name" : "lta50",
+    "jobs" : 100,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 123690,
+      "lower" : 57454
+    },
+    "path" : "lta/lta50.txt",
+    "origin" : "tai_j100_m100_10"
+  },
+  {
+    "name" : "lta51",
+    "jobs" : 100,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 663705,
+      "lower" : 522298
+    },
+    "path" : "lta/lta51.txt",
+    "origin" : "tai_j100_m1000_1"
+  },
+  {
+    "name" : "lta52",
+    "jobs" : 100,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 663326,
+      "lower" : 530375
+    },
+    "path" : "lta/lta52.txt",
+    "origin" : "tai_j100_m1000_2"
+  },
+  {
+    "name" : "lta53",
+    "jobs" : 100,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 665747,
+      "lower" : 530560
+    },
+    "path" : "lta/lta53.txt",
+    "origin" : "tai_j100_m1000_3"
+  },
+  {
+    "name" : "lta54",
+    "jobs" : 100,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 665720,
+      "lower" : 527101
+    },
+    "path" : "lta/lta54.txt",
+    "origin" : "tai_j100_m1000_4"
+  },
+  {
+    "name" : "lta55",
+    "jobs" : 100,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 667278,
+      "lower" : 517728
+    },
+    "path" : "lta/lta55.txt",
+    "origin" : "tai_j100_m1000_5"
+  },
+  {
+    "name" : "lta56",
+    "jobs" : 100,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 668100,
+      "lower" : 522907
+    },
+    "path" : "lta/lta56.txt",
+    "origin" : "tai_j100_m1000_6"
+  },
+  {
+    "name" : "lta57",
+    "jobs" : 100,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 665211,
+      "lower" : 522537
+    },
+    "path" : "lta/lta57.txt",
+    "origin" : "tai_j100_m1000_7"
+  },
+  {
+    "name" : "lta58",
+    "jobs" : 100,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 667330,
+      "lower" : 526428
+    },
+    "path" : "lta/lta58.txt",
+    "origin" : "tai_j100_m1000_8"
+  },
+  {
+    "name" : "lta59",
+    "jobs" : 100,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 666519,
+      "lower" : 528097
+    },
+    "path" : "lta/lta59.txt",
+    "origin" : "tai_j100_m1000_9"
+  },
+  {
+    "name" : "lta60",
+    "jobs" : 100,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 658748,
+      "lower" : 521766
+    },
+    "path" : "lta/lta60.txt",
+    "origin" : "tai_j100_m1000_10"
+  },
+  {
+    "name" : "lta61",
+    "jobs" : 1000,
+    "machines" : 10,
+    "optimum" : 515334,
+    "path" : "lta/lta61.txt",
+    "origin" : "tai_j1000_m10_1"
+  },
+  {
+    "name" : "lta62",
+    "jobs" : 1000,
+    "machines" : 10,
+    "optimum" : 509226,
+    "path" : "lta/lta62.txt",
+    "origin" : "tai_j1000_m10_2"
+  },
+  {
+    "name" : "lta63",
+    "jobs" : 1000,
+    "machines" : 10,
+    "optimum" : 517493,
+    "path" : "lta/lta63.txt",
+    "origin" : "tai_j1000_m10_3"
+  },
+  {
+    "name" : "lta64",
+    "jobs" : 1000,
+    "machines" : 10,
+    "optimum" : 519369,
+    "path" : "lta/lta64.txt",
+    "origin" : "tai_j1000_m10_4"
+  },
+  {
+    "name" : "lta65",
+    "jobs" : 1000,
+    "machines" : 10,
+    "optimum" : 513881,
+    "path" : "lta/lta65.txt",
+    "origin" : "tai_j1000_m10_5"
+  },
+  {
+    "name" : "lta66",
+    "jobs" : 1000,
+    "machines" : 10,
+    "optimum" : 511932,
+    "path" : "lta/lta66.txt",
+    "origin" : "tai_j1000_m10_6"
+  },
+  {
+    "name" : "lta67",
+    "jobs" : 1000,
+    "machines" : 10,
+    "optimum" : 523900,
+    "path" : "lta/lta67.txt",
+    "origin" : "tai_j1000_m10_7"
+  },
+  {
+    "name" : "lta68",
+    "jobs" : 1000,
+    "machines" : 10,
+    "optimum" : 513101,
+    "path" : "lta/lta68.txt",
+    "origin" : "tai_j1000_m10_8"
+  },
+  {
+    "name" : "lta69",
+    "jobs" : 1000,
+    "machines" : 10,
+    "optimum" : 508701,
+    "path" : "lta/lta69.txt",
+    "origin" : "tai_j1000_m10_9"
+  },
+  {
+    "name" : "lta70",
+    "jobs" : 1000,
+    "machines" : 10,
+    "optimum" : 521360,
+    "path" : "lta/lta70.txt",
+    "origin" : "tai_j1000_m10_10"
+  },
+  {
+    "name" : "lta71",
+    "jobs" : 1000,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 625893,
+      "lower" : 525343
+    },
+    "path" : "lta/lta71.txt",
+    "origin" : "tai_j1000_m100_1"
+  },
+  {
+    "name" : "lta72",
+    "jobs" : 1000,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 611710,
+      "lower" : 528088
+    },
+    "path" : "lta/lta72.txt",
+    "origin" : "tai_j1000_m100_2"
+  },
+  {
+    "name" : "lta73",
+    "jobs" : 1000,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 624287,
+      "lower" : 522793
+    },
+    "path" : "lta/lta73.txt",
+    "origin" : "tai_j1000_m100_3"
+  },
+  {
+    "name" : "lta74",
+    "jobs" : 1000,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 622010,
+      "lower" : 524271
+    },
+    "path" : "lta/lta74.txt",
+    "origin" : "tai_j1000_m100_4"
+  },
+  {
+    "name" : "lta75",
+    "jobs" : 1000,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 614345,
+      "lower" : 531216
+    },
+    "path" : "lta/lta75.txt",
+    "origin" : "tai_j1000_m100_5"
+  },
+  {
+    "name" : "lta76",
+    "jobs" : 1000,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 634611,
+      "lower" : 518763
+    },
+    "path" : "lta/lta76.txt",
+    "origin" : "tai_j1000_m100_6"
+  },
+  {
+    "name" : "lta77",
+    "jobs" : 1000,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 628118,
+      "lower" : 527093
+    },
+    "path" : "lta/lta77.txt",
+    "origin" : "tai_j1000_m100_7"
+  },
+  {
+    "name" : "lta78",
+    "jobs" : 1000,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 617271,
+      "lower" : 519524
+    },
+    "path" : "lta/lta78.txt",
+    "origin" : "tai_j1000_m100_8"
+  },
+  {
+    "name" : "lta79",
+    "jobs" : 1000,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 617621,
+      "lower" : 520889
+    },
+    "path" : "lta/lta79.txt",
+    "origin" : "tai_j1000_m100_9"
+  },
+  {
+    "name" : "lta80",
+    "jobs" : 1000,
+    "machines" : 100,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 618350,
+      "lower" : 529112
+    },
+    "path" : "lta/lta80.txt",
+    "origin" : "tai_j1000_m100_10"
+  },
+  {
+    "name" : "lta81",
+    "jobs" : 1000,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1340942,
+      "lower" : 527772
+    },
+    "path" : "lta/lta81.txt",
+    "origin" : "tai_j1000_m1000_1"
+  },
+  {
+    "name" : "lta82",
+    "jobs" : 1000,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1342846,
+      "lower" : 529859
+    },
+    "path" : "lta/lta82.txt",
+    "origin" : "tai_j1000_m1000_2"
+  },
+  {
+    "name" : "lta83",
+    "jobs" : 1000,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1335660,
+      "lower" : 530808
+    },
+    "path" : "lta/lta83.txt",
+    "origin" : "tai_j1000_m1000_3"
+  },
+  {
+    "name" : "lta84",
+    "jobs" : 1000,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1333814,
+      "lower" : 539943
+    },
+    "path" : "lta/lta84.txt",
+    "origin" : "tai_j1000_m1000_4"
+  },
+  {
+    "name" : "lta85",
+    "jobs" : 1000,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1345397,
+      "lower" : 537059
+    },
+    "path" : "lta/lta85.txt",
+    "origin" : "tai_j1000_m1000_5"
+  },
+  {
+    "name" : "lta86",
+    "jobs" : 1000,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1344669,
+      "lower" : 532426
+    },
+    "path" : "lta/lta86.txt",
+    "origin" : "tai_j1000_m1000_6"
+  },
+  {
+    "name" : "lta87",
+    "jobs" : 1000,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1330241,
+      "lower" : 536249
+    },
+    "path" : "lta/lta87.txt",
+    "origin" : "tai_j1000_m1000_7"
+  },
+  {
+    "name" : "lta88",
+    "jobs" : 1000,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1336354,
+      "lower" : 529450
+    },
+    "path" : "lta/lta88.txt",
+    "origin" : "tai_j1000_m1000_8"
+  },
+  {
+    "name" : "lta89",
+    "jobs" : 1000,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1337188,
+      "lower" : 535770
+    },
+    "path" : "lta/lta89.txt",
+    "origin" : "tai_j1000_m1000_9"
+  },
+  {
+    "name" : "lta90",
+    "jobs" : 1000,
+    "machines" : 1000,
+    "optimum" : null,
+    "bounds" : {
+      "upper" : 1333437,
+      "lower" : 527918
+    },
+    "path" : "lta/lta90.txt",
+    "origin" : "tai_j1000_m1000_10"
+  }
+]
