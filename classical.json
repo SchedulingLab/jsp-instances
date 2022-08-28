@@ -35,11 +35,7 @@
     "name" : "abz9",
     "jobs" : 20,
     "machines" : 15,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 679,
-      "lower" : 661
-    },
+    "optimum" : 678,
     "path" : "abz/abz9.txt"
   },
   {
@@ -454,7 +450,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 1671,
+      "upper" : 1667,
       "lower" : 1630
     },
     "path" : "swv/swv06.txt"
@@ -476,7 +472,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 1752,
+      "upper" : 1751,
       "lower" : 1671
     },
     "path" : "swv/swv08.txt"
@@ -514,11 +510,7 @@
     "name" : "swv12",
     "jobs" : 50,
     "machines" : 10,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 2977,
-      "lower" : 2972
-    },
+    "optimum" : 2972,
     "path" : "swv/swv12.txt"
   },
   {
@@ -844,7 +836,7 @@
     "optimum" : null,
     "bounds" : {
       "upper" : 1625,
-      "lower" : 1573
+      "lower" : 1583
     },
     "path" : "ta/ta29.txt"
   },
@@ -855,7 +847,7 @@
     "optimum" : null,
     "bounds" : {
       "upper" : 1584,
-      "lower" : 1519
+      "lower" : 1528
     },
     "path" : "ta/ta30.txt"
   },
@@ -892,11 +884,7 @@
     "name" : "ta34",
     "jobs" : 30,
     "machines" : 15,
-    "optimum" : null,
-    "bounds" : {
-      "upper" : 1829,
-      "lower" : 1828
-    },
+    "optimum" : 1828,
     "path" : "ta/ta34.txt"
   },
   {
@@ -1028,7 +1016,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 1941,
+      "upper" : 1937,
       "lower" : 1912
     },
     "path" : "ta/ta48.txt"
@@ -1384,7 +1372,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 3495,
+      "upper" : 3492,
       "lower" : 3481
     },
     "path" : "dmu/dmu12.txt"
@@ -1445,7 +1433,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 3768,
+      "upper" : 3764,
       "lower" : 3672
     },
     "path" : "dmu/dmu19.txt"
@@ -1456,7 +1444,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 3710,
+      "upper" : 3703,
       "lower" : 3604
     },
     "path" : "dmu/dmu20.txt"
@@ -1640,7 +1628,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 3488,
+      "upper" : 3475,
       "lower" : 3299
     },
     "path" : "dmu/dmu44.txt"
@@ -1651,7 +1639,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 3272,
+      "upper" : 3266,
       "lower" : 3039
     },
     "path" : "dmu/dmu45.txt"
@@ -1717,7 +1705,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 4167,
+      "upper" : 4156,
       "lower" : 3954
     },
     "path" : "dmu/dmu51.txt"
@@ -1728,7 +1716,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 4311,
+      "upper" : 4303,
       "lower" : 4094
     },
     "path" : "dmu/dmu52.txt"
@@ -1739,7 +1727,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 4394,
+      "upper" : 4378,
       "lower" : 4141
     },
     "path" : "dmu/dmu53.txt"
@@ -1750,7 +1738,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 4362,
+      "upper" : 4361,
       "lower" : 4202
     },
     "path" : "dmu/dmu54.txt"
@@ -1761,7 +1749,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 4271,
+      "upper" : 4263,
       "lower" : 4146
     },
     "path" : "dmu/dmu55.txt"
@@ -1794,7 +1782,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 4708,
+      "upper" : 4701,
       "lower" : 4319
     },
     "path" : "dmu/dmu58.txt"
@@ -1805,7 +1793,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 4624,
+      "upper" : 4616,
       "lower" : 4219
     },
     "path" : "dmu/dmu59.txt"
@@ -1816,7 +1804,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 4755,
+      "upper" : 4721,
       "lower" : 4319
     },
     "path" : "dmu/dmu60.txt"
@@ -1827,7 +1815,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 5172,
+      "upper" : 5171,
       "lower" : 4917
     },
     "path" : "dmu/dmu61.txt"
@@ -1838,7 +1826,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 5265,
+      "upper" : 5248,
       "lower" : 5041
     },
     "path" : "dmu/dmu62.txt"
@@ -1849,7 +1837,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 5326,
+      "upper" : 5313,
       "lower" : 5111
     },
     "path" : "dmu/dmu63.txt"
@@ -1860,7 +1848,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 5250,
+      "upper" : 5226,
       "lower" : 5130
     },
     "path" : "dmu/dmu64.txt"
@@ -1871,7 +1859,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 5190,
+      "upper" : 5184,
       "lower" : 5107
     },
     "path" : "dmu/dmu65.txt"
@@ -1882,7 +1870,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 5717,
+      "upper" : 5701,
       "lower" : 5397
     },
     "path" : "dmu/dmu66.txt"
@@ -1893,7 +1881,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 5813,
+      "upper" : 5779,
       "lower" : 5589
     },
     "path" : "dmu/dmu67.txt"
@@ -1904,7 +1892,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 5773,
+      "upper" : 5763,
       "lower" : 5426
     },
     "path" : "dmu/dmu68.txt"
@@ -1915,7 +1903,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 5709,
+      "upper" : 5688,
       "lower" : 5423
     },
     "path" : "dmu/dmu69.txt"
@@ -1926,7 +1914,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 5889,
+      "upper" : 5868,
       "lower" : 5501
     },
     "path" : "dmu/dmu70.txt"
@@ -1937,7 +1925,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 6233,
+      "upper" : 6207,
       "lower" : 6080
     },
     "path" : "dmu/dmu71.txt"
@@ -1948,7 +1936,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 6483,
+      "upper" : 6463,
       "lower" : 6395
     },
     "path" : "dmu/dmu72.txt"
@@ -1959,7 +1947,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 6163,
+      "upper" : 6136,
       "lower" : 6001
     },
     "path" : "dmu/dmu73.txt"
@@ -1970,7 +1958,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 6220,
+      "upper" : 6196,
       "lower" : 6123
     },
     "path" : "dmu/dmu74.txt"
@@ -1981,7 +1969,7 @@
     "machines" : 15,
     "optimum" : null,
     "bounds" : {
-      "upper" : 6197,
+      "upper" : 6189,
       "lower" : 6029
     },
     "path" : "dmu/dmu75.txt"
@@ -1992,7 +1980,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 6813,
+      "upper" : 6718,
       "lower" : 6342
     },
     "path" : "dmu/dmu76.txt"
@@ -2003,7 +1991,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 6822,
+      "upper" : 6747,
       "lower" : 6499
     },
     "path" : "dmu/dmu77.txt"
@@ -2014,7 +2002,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 6770,
+      "upper" : 6755,
       "lower" : 6586
     },
     "path" : "dmu/dmu78.txt"
@@ -2025,7 +2013,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 6970,
+      "upper" : 6910,
       "lower" : 6650
     },
     "path" : "dmu/dmu79.txt"
@@ -2036,7 +2024,7 @@
     "machines" : 20,
     "optimum" : null,
     "bounds" : {
-      "upper" : 6686,
+      "upper" : 6634,
       "lower" : 6459
     },
     "path" : "dmu/dmu80.txt"
