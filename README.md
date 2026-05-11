@@ -50,6 +50,14 @@ Description in [large.json](large.json)
 
 The (initial) bounds for `lta` have been computed as before. This has given 11 instances with lower bound equal to upper bound. The optimum makespan for `ko` is 600000 by construction of the instances.
 
+## Industry instances
+
+Descripton in [industry.json](industry.json)
+
+- `mt` (20 instances, [11]) ([also available on github](https://github.com/LaurieBvrx/large-scale-complex-JSSP-benchmark))
+
+The (initial) bounds have been computed as before. This has given 11 instances lower bound equal to upper bound.
+
 ## References
 
 1. J. Adams, E. Balas, D. Zawack. "The shifting bottleneck procedure for job shop scheduling.", Management Science, Vol. 34, Issue 3, pp. 391-401, 1988.
@@ -62,3 +70,4 @@ The (initial) bounds for `lta` have been computed as before. This has given 11 i
 8. T. Yamada, R. Nakano. "A genetic algorithm applicable to large-scale job-shop problems.", Proceedings of the Second international workshop on parallel problem solving from Nature (PPSN'2). Brussels (Belgium), pp. 281-290, 1992.
 9. S. Strassl and N. Musliu. "Instance space analysis and algorithm selection for the job shop scheduling problem", Computers & Operations Research, Vol. 141, 2022.
 10. G. Da Col, E. Teppan. "Large-Scale Benchmarks for the Job Shop Scheduling Problem", 2021.
+11. L. Boveroux, D. Ernst, Q. Louveaux. ["Investigating the Monte-Carlo Tree Search approach for the job shop scheduling problem"](https://doi.org/10.1016/j.ejco.2025.100118), EURO Journal on Computational Optimization, Vol. 13, 100118, 2025.

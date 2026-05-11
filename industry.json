@@ -1,0 +1,178 @@
+[
+  {
+    "name": "mt00",
+    "jobs": 792,
+    "machines": 48,
+    "optimum": 766329,
+    "path": "mt/mt00.txt"
+  },
+  {
+    "name": "mt01",
+    "jobs": 627,
+    "machines": 52,
+    "optimum": 428900,
+    "path": "mt/mt01.txt"
+  },
+  {
+    "name": "mt02",
+    "jobs": 660,
+    "machines": 59,
+    "optimum": 270437,
+    "path": "mt/mt02.txt"
+  },
+  {
+    "name": "mt03",
+    "jobs": 691,
+    "machines": 52,
+    "optimum": null,
+    "bounds": {
+      "upper": 678013,
+      "lower": 670943
+    },
+    "path": "mt/mt03.txt"
+  },
+  {
+    "name": "mt04",
+    "jobs": 952,
+    "machines": 63,
+    "optimum": 408633,
+    "path": "mt/mt04.txt"
+  },
+  {
+    "name": "mt05",
+    "jobs": 929,
+    "machines": 59,
+    "optimum": null,
+    "bounds": {
+      "upper": 620527,
+      "lower": 620171
+    },
+    "path": "mt/mt05.txt"
+  },
+  {
+    "name": "mt06",
+    "jobs": 678,
+    "machines": 57,
+    "optimum": 502510,
+    "path": "mt/mt06.txt"
+  },
+  {
+    "name": "mt07",
+    "jobs": 968,
+    "machines": 55,
+    "optimum": 750360,
+    "path": "mt/mt07.txt"
+  },
+  {
+    "name": "mt08",
+    "jobs": 822,
+    "machines": 65,
+    "optimum": 484451,
+    "path": "mt/mt08.txt"
+  },
+  {
+    "name": "mt09",
+    "jobs": 651,
+    "machines": 53,
+    "optimum": null,
+    "bounds": {
+      "upper": 535172,
+      "lower": 534811
+    },
+    "path": "mt/mt09.txt"
+  },
+  {
+    "name": "mt10",
+    "jobs": 733,
+    "machines": 61,
+    "optimum": null,
+    "bounds": {
+      "upper": 468322,
+      "lower": 468304
+    },
+    "path": "mt/mt10.txt"
+  },
+  {
+    "name": "mt11",
+    "jobs": 761,
+    "machines": 66,
+    "optimum": null,
+    "bounds": {
+      "upper": 509576,
+      "lower": 509503
+    },
+    "path": "mt/mt11.txt"
+  },
+  {
+    "name": "mt12",
+    "jobs": 897,
+    "machines": 64,
+    "optimum": null,
+    "bounds": {
+      "upper": 388864,
+      "lower": 388715
+    },
+    "path": "mt/mt12.txt"
+  },
+  {
+    "name": "mt13",
+    "jobs": 836,
+    "machines": 54,
+    "optimum": null,
+    "bounds": {
+      "upper": 421423,
+      "lower": 420576
+    },
+    "path": "mt/mt13.txt"
+  },
+  {
+    "name": "mt14",
+    "jobs": 935,
+    "machines": 57,
+    "optimum": 1115063,
+    "path": "mt/mt14.txt"
+  },
+  {
+    "name": "mt15",
+    "jobs": 818,
+    "machines": 48,
+    "optimum": 610946,
+    "path": "mt/mt15.txt"
+  },
+  {
+    "name": "mt16",
+    "jobs": 855,
+    "machines": 59,
+    "optimum": 575843,
+    "path": "mt/mt16.txt"
+  },
+  {
+    "name": "mt17",
+    "jobs": 662,
+    "machines": 47,
+    "optimum": null,
+    "bounds": {
+      "upper": 520563,
+      "lower": 520426
+    },
+    "path": "mt/mt17.txt"
+  },
+  {
+    "name": "mt18",
+    "jobs": 677,
+    "machines": 50,
+    "optimum": 347889,
+    "path": "mt/mt18.txt"
+  },
+  {
+    "name": "mt19",
+    "jobs": 806,
+    "machines": 69,
+    "optimum": null,
+    "bounds": {
+      "upper": 529702,
+      "lower": 529239
+    },
+    "path": "mt/mt19.txt"
+  }
+]
